@@ -57,7 +57,7 @@
             tools:targetApi="n">
         </activity>
         <activity
-            android:name=".colors.ColorListActivity"
+            android:name=".colors.ColorListFragment"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="false"
             android:label="@string/title_activity_color_list"
